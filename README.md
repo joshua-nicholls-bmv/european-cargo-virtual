@@ -55,3 +55,4 @@ The site uses system fonts to work offline. Change the hero images through the r
 Includes skip navigation, landmark elements, logical headings, keyboard focus indicators, current-page labels, accessible menu state, native expandable FAQ sections, labelled checklist inputs and reduced-motion support.
 
 Before launch, check mobile and desktop layouts, keyboard navigation, all links and final approved copy. No analytics, cookies, application backend or live operational integrations are included.
+
