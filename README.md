@@ -24,6 +24,12 @@ All links and assets use relative paths. No build, account, API keys, external f
 
 If the repository is named `YOUR-USERNAME.github.io`, the site runs at the domain root. For a custom domain later, configure that domain in GitHub Pages and follow GitHub's DNS instructions; a `CNAME` file is deliberately not included because the domain is not yet known.
 
+## Release 1.3 — recruitment and operating details
+
+Recruitment is open via https://discord.gg/XrmaPKMmn. Join includes confirmed requirements and the five-step application process. About includes Dylan Barlow (ECV Founder & Manager), Josh (BMG Management, Systems & Website) and Richie (BMG Management). All 28 sectors are active and open to all A340 variants. Primary cargo aircraft: A340-600F and A340-500F; Aerosoft and iniBuilds A340 add-ons are accepted per ECV management. The registration roster retains its previously supplied designations.
+
+Livery links, detailed SOPs and charter rules remain pending. Applications are managed in Discord, not through this static website.
+
 ## Release 1.2 — Group ACARS
 
 ECV uses British Midland Group ACARS. Operations and Join now explain SimBrief import, dispatch briefing, MSFS connection, flight recording, PIREP submission and Flight History. Home and About also identify the shared Group platform. These features are documented from the Group ACARS project material; no live feed or application connection has been added to this static website.
@@ -55,7 +61,7 @@ Unconfirmed details are intentionally described as pending rather than presented
 
 The homepage statistics describe the confirmed fleet, hubs, schedule and simulator; pilot counts, completed flights and cargo totals remain TBA.
 
-The Join checklist is local preparation only. It does not submit an application, store data or send messages. Once the official joining URL is available, replace the application-status notice in `join.html` with a clearly labelled link to that URL. Never place private credentials in these public files.
+The Join page links to the ECV Discord for applications and onboarding. This static website does not submit applications or collect personal data. Never place private credentials in public files.
 
 ## Editing
 
