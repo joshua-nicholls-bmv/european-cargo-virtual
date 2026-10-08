@@ -24,6 +24,12 @@ All links and assets use relative paths. No build, account, API keys, external f
 
 If the repository is named `YOUR-USERNAME.github.io`, the site runs at the domain root. For a custom domain later, configure that domain in GitHub Pages and follow GitHub's DNS instructions; a `CNAME` file is deliberately not included because the domain is not yet known.
 
+## Release 1.2 — Group ACARS
+
+ECV uses British Midland Group ACARS. Operations and Join now explain SimBrief import, dispatch briefing, MSFS connection, flight recording, PIREP submission and Flight History. Home and About also identify the shared Group platform. These features are documented from the Group ACARS project material; no live feed or application connection has been added to this static website.
+
+ACARS access/download links, ECV-specific reporting rules, support contacts and SOPs remain to be supplied.
+
 ## Release 1.1 — supplied operating details
 
 - Owner: Dylan. European Cargo Virtual is part of the British Midland Group.
@@ -44,7 +50,7 @@ Unconfirmed details are intentionally described as pending rather than presented
 - Contact details and community links
 - Approved simulator add-ons and livery download links
 - Charter rules
-- Operating handbook, entry criteria, dispatch, ACARS and flight reporting
+- Operating handbook, entry criteria, ECV-specific reporting rules and ACARS onboarding/download links
 - Pilot counts, flight counts and cargo totals
 
 The homepage statistics describe the confirmed fleet, hubs, schedule and simulator; pilot counts, completed flights and cargo totals remain TBA.
