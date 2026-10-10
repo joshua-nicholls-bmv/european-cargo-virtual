@@ -87,4 +87,4 @@ ACARS guidance now follows Choose → Plan → Brief → Connect → Fly → Rep
 
 ## Brand icons
 
-Browser favicons and Apple/mobile icons export the red Moving Forward chevrons from the supplied logo on white. Includes multi-size ICO, 16/32/48px PNGs, 180px Apple touch icon, 192/512px icons and a relative-path web manifest. Icon links are included on all six pages.
+Browser favicons and Apple/mobile icons export the red Moving Forward chevrons from the supplied logo on a transparent background. Includes multi-size ICO, 16/32/48px PNGs, 180px Apple touch icon, 192/512px icons and a relative-path web manifest. Icon links are included on all six pages.
