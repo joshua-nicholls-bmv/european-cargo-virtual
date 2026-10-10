@@ -80,3 +80,7 @@ Before launch, check mobile and desktop layouts, keyboard navigation, all links 
 ## Version 2.0 — cargo operator redesign
 
 White-led operator design with compact navigation, a split aircraft hero, route boards, selected sectors, fleet information and a Group ACARS workflow. Inner pages use compact editorial headings and denser content. Fleet includes an accessible aircraft variant selector. All links remain relative and no build is required. The ACARS workflow is explanatory UI, not a live application view.
+
+## Pilot workflow update
+
+ACARS guidance now follows Choose → Plan → Brief → Connect → Fly → Report, including briefing acknowledgement and confirmation of successful PIREP submission. Join retains the public server invite and links directly to the supplied Discord application post; server membership and access are required. Discord post permissions have not been tested through a pilot account.
