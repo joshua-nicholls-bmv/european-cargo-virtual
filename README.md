@@ -92,3 +92,7 @@ Browser favicons and Apple/mobile icons export the red Moving Forward chevrons f
 ## Pilot resources and ECV operations feeds
 
 Operations includes official ACARS release download guidance, supplied guide v1.0, and the flightsim.to European Cargo search. The live map and recent flights use the existing BMG public views and publishable key only. Both queries filter URO/ECV flight numbers before applying limits, with defensive browser filtering. No database schema, permissions or policies were changed. Aircraft type and pilot membership are deliberately not classifiers. Selected track history is supplementary. Empty/error states are separate; refresh pauses in hidden tabs.
+
+## Network and A321 expansion
+
+Added Cardiff–Frankfurt (EDDF), Bournemouth–Liège (EBLG), Birmingham–Billund (EKBI), Teesside–Cologne (EDDK), each in both directions. Existing 28 sectors retained: 36 directional sectors and 9 international destinations overall. New flight numbers, durations and aircraft assignments remain unconfirmed. Added Fenix A321 IAE and supplied fictional European Cargo P2F livery link; no A321 registrations or aircraft count were invented.
