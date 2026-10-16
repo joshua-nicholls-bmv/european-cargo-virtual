@@ -96,3 +96,7 @@ Operations includes official ACARS release download guidance, supplied guide v1.
 ## Network and A321 expansion
 
 Added Cardiff–Frankfurt (EDDF), Bournemouth–Liège (EBLG), Birmingham–Billund (EKBI), Teesside–Cologne (EDDK), each in both directions. Existing 28 sectors retained: 36 directional sectors and 9 international destinations overall. New flight numbers, durations and aircraft assignments remain unconfirmed. Added Fenix A321 IAE and supplied fictional European Cargo P2F livery link; no A321 registrations or aircraft count were invented.
+
+## A321F roster and assignments
+
+Confirmed A321Fs: G-ECLF, G-ECVF, G-ECVA. G-ECLF was reassigned from the previously supplied A340-500 entry to avoid duplicate registrations. The remaining A340 registration roster contains 9 aircraft. Four new European return routes are A321F operations. Fleet photography remains the supplied A340 imagery, explicitly captioned as such; no substitute A321 image was introduced.
