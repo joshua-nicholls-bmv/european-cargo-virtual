@@ -88,3 +88,7 @@ ACARS guidance now follows Choose → Plan → Brief → Connect → Fly → Rep
 ## Brand icons
 
 Browser favicons and Apple/mobile icons export the red Moving Forward chevrons from the supplied logo on a transparent background. Includes multi-size ICO, 16/32/48px PNGs, 180px Apple touch icon, 192/512px icons and a relative-path web manifest. Icon links are included on all six pages.
+
+## Pilot resources and ECV operations feeds
+
+Operations includes official ACARS release download guidance, supplied guide v1.0, and the flightsim.to European Cargo search. The live map and recent flights use the existing BMG public views and publishable key only. Both queries filter URO/ECV flight numbers before applying limits, with defensive browser filtering. No database schema, permissions or policies were changed. Aircraft type and pilot membership are deliberately not classifiers. Selected track history is supplementary. Empty/error states are separate; refresh pauses in hidden tabs.
